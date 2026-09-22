@@ -35,7 +35,7 @@ const Banner = () => {
 
           <div className="mt-8">
             <Link
-              href="/movies"
+              to="/movies"
               className="inline-flex btn btn-primary items-center rounded-full bg-lenear-to-r from-orange-500 via-pink-500 to-violet-600 px-7 py-3 font-semibold text-white shadow-lg transition hover:scale-105"
             >
               Explore Movies
